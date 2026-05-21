@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/Luna/Luna/build/cmake_install.cmake",
+		"/home/Luna/Luna/build/Source/cmake_install.cmake",
+		"/home/Luna/Luna/build/Source/Core/cmake_install.cmake",
+		"/home/Luna/Luna/build/Source/Core/Luna_Math/cmake_install.cmake",
+		"/home/Luna/Luna/build/Source/Editor/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

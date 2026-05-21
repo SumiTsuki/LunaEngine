@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/Luna/Luna/build/Source/Editor",
+  "command": "/nix/store/qd70v8g0561vm8m33kmnp79z00cgyi5n-gcc-wrapper-15.2.0/bin/g++  -I/home/Luna/Luna/Source/Core/Public -I/home/Luna/Luna/Source/Core/Luna_Math/Public -std=c++23 -o CMakeFiles/Luna.dir/main.cpp.o -c /home/Luna/Luna/Source/Editor/main.cpp",
+  "file": "/home/Luna/Luna/Source/Editor/main.cpp",
+  "output": "Source/Editor/CMakeFiles/Luna.dir/main.cpp.o"
+}
+]
